@@ -36,6 +36,13 @@ This chess project is a [simple/advanced] implementation of the classic chess ga
 
 These instructions will help you set up and run the chess game on your local machine for development, testing, or casual play.
 
+## 🚀 Deployment <a name = "deployment"></a>
+To deploy this project:
+
+Build the project in Release mode in Visual Studio.
+Locate the compiled .exe file in the bin/Release folder.
+Share the executable for others to run the game on their Windows machines.
+
 ### Prerequisites
 
 Ensure you have the following installed on your machine:
