@@ -1,26 +1,21 @@
-#This is a sample.
-
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://upload.wikimedia.org/wikipedia/commons/1/11/Anderssen-Kieseritzky.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Project Title</h3>
+<h3 align="center">Chess Game</h3>
 
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
+[![GitHub Issues](https://img.shields.io/github/issues/justtcallmejayy/Chess.svg)](https://github.com/justtcallmejayy/Chess/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/justtcallmejayy/Chess.svg)](https://github.com/justtcallmejayy/Chess/pulls)
 </div>
 
 ---
 
-<p align="center"> Few lines describing your project.
-    <br> 
-</p>
+<p align="center"> A chess game implementation in C# using the .NET framework. It provides a fun and engaging chess experience for two players and supports standard chess mechanics and rules. <br> </p>
+
 
 ## 📝 Table of Contents
 
@@ -29,88 +24,31 @@
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
+- [Contributing](#contributing)
 - [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+- [Acknowledgements](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This chess project is a [simple/advanced] implementation of the classic chess game. The project supports Multiplayer and includes standard chess rules and mechanics. The goal is to provide a platform for chess enthusiasts to practice or compete.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will help you set up and run the chess game on your local machine for development, testing, or casual play.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+Ensure you have the following installed on your machine:
 
-```
-Give examples
-```
+- Visual Studio (if applicable)
+- Assets (if applicable)
+- Any additional libraries or tools your project needs.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
+Follow these steps to get the project running:
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
-
-## ⛏️ Built Using <a name = "built_using"></a>
-
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/justtcallmejayy/Chess.git
+   cd Chess
